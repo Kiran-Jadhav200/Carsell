@@ -24,7 +24,7 @@ import javax.swing.border.*;
 public class WelcomePanel extends JPanel implements ChangeListener
 {
 	private CarSalesSystem carSystem;
-	private JLabel headingLabel = new JLabel("Welcome to the Car Sales System", JLabel.CENTER);
+	private JLabel headingLabel = new JLabel("The Car Sales System", JLabel.CENTER);
 	private JLabel carsLabel = new JLabel();
 	private JLabel manufacturersLabel = new JLabel();
 	private JLabel avgPriceLabel = new JLabel();
