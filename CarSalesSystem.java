@@ -83,7 +83,7 @@ public class CarSalesSystem extends JFrame implements ActionListener, ComponentL
 	private JPanel titlePanel = new JPanel(new GridLayout(2, 1));
 	private JLabel statusLabel = new JLabel();
 	private JLabel pictureLabel = new JLabel();
-	private JLabel carCoLabel = new JLabel("My Car Company", JLabel.CENTER);
+	private JLabel carCoLabel = new JLabel("Welcome to the Car Sales System", JLabel.CENTER);
 	private JLabel salesSysLabel = new JLabel("Car Sales System", JLabel.CENTER);
 	private JTabbedPane theTab = new JTabbedPane(JTabbedPane.LEFT);
 	private JMenuBar menuBar = new JMenuBar();
